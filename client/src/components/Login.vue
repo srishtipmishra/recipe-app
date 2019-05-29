@@ -16,6 +16,7 @@
 </template>
 <script>
 import AuthService from '../auth/authService.js'
+// this is a comment
 export default {
 	data () {
 		return {
